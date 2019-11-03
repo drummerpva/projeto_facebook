@@ -1,0 +1,38 @@
+.widget{
+    margin-bottom:20px;
+}
+.sugestaoItem{
+    height: 40px;
+    line-height: 40px;
+}
+.postArea{
+    border-bottom: 1px solid #CCC;
+    padding-bottom: 15px;
+}
+.postArea textarea{
+    resize: none;
+    min-height: 100px;
+}
+.postItem{
+    padding: 5px;
+    border: 1px solid #ccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.postItem_Texto{
+    background: #EEE;
+    padding: 10px;
+}
+.postItem_Comentario{
+    display: none;
+}
+.postItem_Comentarios{
+    display: none;
+    padding: 5px;
+    width: 100%;
+    border: 1px solid #444;
+}
+.comentario{
+    padding: 5px;
+    background: #DDD;
+}
